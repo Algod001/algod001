@@ -3,10 +3,10 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-<p align="center">
-  <img height="150" src="https://media.giphy.com/media/pUVOeIagS1rrqsYQJe/giphy.gif" alt="Giphy Animation" />
-</p>
 
+<p align="left">- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+
+###
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -46,12 +46,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
+###
+<div align="center">
 
-<p align="center">
-  <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3hvOHV6NjY5YjR1emdhN2YweTVuN3l4ZGkxZTR0b2czenNiYXN6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUVOeIagS1rrqsYQJe/giphy.gif" />
-</p>
+<img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3hvOHV6NjY5YjR1emdhN2YweTVuN3l4ZGkxZTR0b2czenNiYXN6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUVOeIagS1rrqsYQJe/giphy.gif"  /> </div>
 
-
+###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -78,7 +78,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=algod001&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
+###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=algod001.algod001&" />
