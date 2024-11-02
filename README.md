@@ -47,11 +47,7 @@
 </div>
 
 ###
-<div align="center">
 
-<img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3hvOHV6NjY5YjR1emdhN2YweTVuN3l4ZGkxZTR0b2czenNiYXN6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUVOeIagS1rrqsYQJe/giphy.gif"  /> </div>
-
-<div style="width:100%;height:0;padding-bottom:60%;position:relative;"><iframe src="https://giphy.com/embed/pUVOeIagS1rrqsYQJe" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/help-harold-hide-the-pain-pUVOeIagS1rrqsYQJe">via GIPHY</a></p>
 
 ###
 
