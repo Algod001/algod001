@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">- 🔭 I’m studying in KPU <br>- 📚 I'm currently learning IT <br>- ⚡ In my free time I like to program </p>
 
 ###
 ###
