@@ -1,3 +1,98 @@
-This is Bishwas 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfolio</title>
+  <style>
+    /* Styles go here */
+    body, html {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+    }
 
-using Git 
+    .menu-container, .overlay, .menu-items, nav, header, #about, #projects, #contact {
+      padding: 20px;
+      text-align: center;
+    }
+
+    /* More CSS styles here as per your original CSS */
+  </style>
+</head>
+<body>
+  <!-- Menu Component -->
+  <div class="menu-container" id="menu">
+    <div class="overlay"></div>
+    <div class="menu-items">
+      <ul>
+        <li><a href="#welcome-section">HOME</a></li>
+        <li><a href="#about">ABOUT</a></li>
+        <li><a href="#projects">PORTFOLIO</a></li>
+        <li><a href="#contact">CONTACT</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Nav Component -->
+  <nav id="navbar">
+    <div class="nav-wrapper">
+      <p class="brand">yago <strong>estévez</strong></p>
+      <a id="menu-button"><span></span></a>
+    </div>
+  </nav>
+
+  <!-- Header Component -->
+  <header id="welcome-section">
+    <h1>
+      <span class="line">I do</span>
+      <span class="line">graphic design</span>
+      <span class="line"><span class="color">&</span> code.</span>
+    </h1>
+    <div class="buttons">
+      <a href="#projects">my portfolio</a>
+      <a href="#contact" class="cta">get in touch</a>
+    </div>
+  </header>
+
+  <!-- About Component -->
+  <section id="about">
+    <h3>Who's this guy?</h3>
+    <p>My name is Yago. I am a web developer and UX designer based on the beautiful west coast of Spain, Galicia.</p>
+    <h3>What does he do?</h3>
+    <p>I'm a programmer and a designer, skilled with front-end tools like JavaScript, React, and back-end tools like Node.js.</p>
+  </section>
+
+  <!-- Projects Component -->
+  <section id="projects">
+    <h3>My Works</h3>
+    <p>Here’s a list of projects I’ve been working on. Built during my journey with freeCodeCamp.</p>
+    <div class="projects-wrapper">
+      <!-- Individual Project Items -->
+      <div class="project">
+        <a href="https://yagoestevez-anon-msg-board.glitch.me/">
+          <img src="https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/AnonMsgBoard.jpg" alt="Anonymous Message Board">
+        </a>
+        <h4>Anonymous Message Board</h4>
+        <p>A full-stack website that lets users read and post anonymous messages.</p>
+      </div>
+      <!-- Repeat similar blocks for each project -->
+    </div>
+  </section>
+
+  <!-- Contact Component -->
+  <section id="contact">
+    <h3>Want to contact me?</h3>
+    <p>Feel free to reach out via email at example@example.com.</p>
+  </section>
+
+  <!-- Inline JavaScript -->
+  <script>
+    // JavaScript functionality for toggling menu
+    document.getElementById('menu-button').onclick = function() {
+      var menu = document.getElementById('menu');
+      menu.style.display = menu.style.display === 'block' ? 'none' : 'block';
+    };
+  </script>
+</body>
+</html>
